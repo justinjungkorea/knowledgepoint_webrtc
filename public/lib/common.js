@@ -1,4 +1,4 @@
-onst signalServerMultiConnectURL = 'https://knowledgetalk.co.kr:7511/SignalServer';
+const signalServerMultiConnectURL = 'https://knowledgetalk.co.kr:7511/SignalServer';
 
 const K_STUN = { urls: 'stun:106.240.247.44:46000' };
 const K_TURN = {
